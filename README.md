@@ -15,6 +15,11 @@ C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\cfg
 This repository contains a custom **autoexec.cfg** for Left 4 Dead 2, fine-tuned to improve performance and stability, especially on low-end hardware.  
 Tested on a laptop with an **NVIDIA MX330** GPU, this configuration reduces stutters, cleans up ragdolls faster, optimizes sound handling, and ensures a smooth experience even during intense horde attacks.
 
+I created this config based on my own gameplay experience. I used to play Left 4 Dead 2 with FPS stuck around 20–30, which made the game laggy and frustrating. I searched YouTube and Google for solutions — some configs helped, but they didn’t quite give the boost I wanted.  
+So, I decided to build my own **autoexec.cfg** that automatically runs and optimizes performance for the original Steam-installed Left 4 Dead 2.
+
+After months of trial, error, and tweaking (low graphics, high graphics, multiplayer Steam group servers), the results have been consistently better than before. Everything here is based on my own R&D experience, so if you want to use it — go ahead and enjoy smoother gameplay!
+
 ### 💻 Test Machine Specs
 - **Laptop:** ASUS VivoBook 15  
 - **CPU:** Intel Core i5 11th Gen  
