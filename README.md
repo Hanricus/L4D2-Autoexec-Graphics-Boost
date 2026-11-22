@@ -9,7 +9,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\cfg
 3. open steam
 4. go to L4D2 Launch Option in properties
 5. paste :
-" +exec autoexec.cfg -novid -high -fullscreen -w 1920 -h 1080 -threads 4 -nojoy -nod3d9ex -noaafonts -softparticlesdefaultoff -limitvsconst -forcenovsync -r_emulate_gl -lv +gibs_lifetime 0 +violence_ablood 0 +violence_agibs 0 +violence_hblood 0 +violence_hgibs " 
+" " -novid -high -fullscreen -w 1920 -h 1080 -nojoy -nod3d9ex -noaafonts -softparticlesdefaultoff -limitvsconst -forcenovsync +gibs_lifetime 0 +violence_ablood 0 +violence_agibs 0 +violence_hblood 0 +violence_hgibs 0 " " 
 
 ## Everything About This Project/ Codes
 This repository contains a custom **autoexec.cfg** for Left 4 Dead 2, fine-tuned to improve performance and stability, especially on low-end hardware.  
